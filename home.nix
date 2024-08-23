@@ -57,6 +57,7 @@
 
     # nix related
     nix-output-monitor # processes output of Nix commands to show helpful and pretty information
+    nix-search-cli # cli for searching packages on search.nixos.org
 
     # productivity
     hugo # static site generator
